@@ -6,6 +6,7 @@ const config = {
     colors: {
       main: "#FEFCE8",
       nav: "#000000",
+      blue:"#2563EB",
       white:{
         100:'#71717A',
         400:'#EFEFEF',
