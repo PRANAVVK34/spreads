@@ -10,6 +10,7 @@ const config = {
       white:{
         100:'#71717A',
         400:'#EFEFEF',
+        600:'#FFFFFF'
       },
     },
     extend: {},
